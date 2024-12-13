@@ -23,7 +23,7 @@
 		"chalk": "^5.3.0",
 		"dotenv-expand": "^10.0.0",
 		"dotenv-flow": "^4.0.0",
-		"express": "^4.18.2",
+		"express": "^4.21.2",
 		"express-http-proxy": "^2.0.0",
 		"rammerhead": "1.2.64",
 		"website": "https://github.com/holy-unblocker/website-embedded/releases/download/v1.0.0-holy.7/website-1.0.0-holy.7.tgz"
